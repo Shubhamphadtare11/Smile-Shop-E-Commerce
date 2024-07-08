@@ -101,7 +101,7 @@ const Footer = () => {
       <FooterSection>
         <div className="container">
           <div>
-            <h2>Foodies Hub</h2>
+            <h2>Smile Shop</h2>
             <h4>© 2024 made By Shubham</h4>
           </div>
 
